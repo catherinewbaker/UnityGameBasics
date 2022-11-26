@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74beccbd-9d6b-431c-9e60-58bab9ed9ff2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+    <Files>
+      <File FileName="../Desktop/game_squad/Assets/AIChase.cs" />
+      <File FileName="Assets/PlayerController.cs" Line="24" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (3)" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
